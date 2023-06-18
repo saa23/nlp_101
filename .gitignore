@@ -301,3 +301,5 @@ pyrightconfig.json
 
 # additional ignore
 note/
+
+# end of gitignore
