@@ -27,7 +27,10 @@ Seringkali data source masih berupa unstructured data, oleh karena diperlukan Te
 3.	Text Tokenisasi
 4.	Text Vectorization
 # 5. Jenis NLP
+Berdasarkan task, NLP dapat dibagi atas dua bagian:
 - NLU (Natural Language Understanding)
+Berfokus pada kemampuan untuk memahami dan menganalisa text.
 - NLG (Natural Language Generation)
-# Other Page:
-- Basic Linguistic: 
+Berfokus pada kemampuan sistem untuk menghasilkan text.
+# See more detail
+- [Basic Linguistic](https://github.com/saa23/nlp_101/tree/master/1_introduction)
